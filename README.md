@@ -92,5 +92,4 @@ void loop() {
 ```
 
 ### Foto del Montaje 
-
-![](foto_montaje.jpeg)
+(carpeta .MD)
